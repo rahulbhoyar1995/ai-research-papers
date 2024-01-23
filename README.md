@@ -16,15 +16,7 @@ Welcome to the AI Research Papers Repository! The goal of this project is to pro
 
 ## Content
 
-The papers in this repository are categorized based on their respective AI subfields. Each category contains a list of papers along with brief descriptions to help you navigate through the vast collection. Whether you're a beginner looking to explore foundational concepts or an experienced researcher seeking the latest breakthroughs, you'll find valuable content here.
-
-### Categories
-
-- [Machine Learning](./machine-learning)
-- [Natural Language Processing](./natural-language-processing)
-- [Computer Vision](./computer-vision)
-- [Reinforcement Learning](./reinforcement-learning)
-- [Ethics in AI](./ethics-in-ai)
+The papers in this repository are placed in the folders containing the paper and its brief descriptions to help you navigate through the content. Whether you're a beginner looking to explore foundational concepts or an experienced researcher seeking the latest breakthroughs, you'll find valuable content here.
 
 Feel free to explore the folders and discover papers that align with your interests.
 
