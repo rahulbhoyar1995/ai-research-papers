@@ -1,5 +1,6 @@
-
 # AI Research Papers Repository
+
+### Author : Rahul Bhoyar
 
 This repository is a collection of research papers related to artificial intelligence. It serves as a curated list of papers that cover a wide range of topics within the field of AI, including machine learning, natural language processing, computer vision, and more.
 
